@@ -43,7 +43,7 @@ The Open Swim scripts work with Plex by querying [Collections](https://support.p
 #### Create a promos library
 Promos, bumpers, trailers, and prerolls are all interstitial style content that you don't want to show up on your Home playlist. These are not TV shows, and Plex's matching will mangle them. If you are going to use this style of content, I highly recommend creating a TV library specifically for these kinds of media. You will want to use these settings to prevent Plex from trying to match your content to the TVDB, and to prevent half-watched interstitials from showing up in your Continue Watching list on the Plex home page.
 
-![Promo Library Set Up](Screenshots\PromosLibrarySet-up.PNG)
+![Promo Library Set Up](Screenshots/PromosLibrarySet-up.PNG)
 
 Plex may fail to find all of your promo media. [You may need to rename your media to match Plex's TV show standards.](https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/) I use [Advanced Renamer](https://www.advancedrenamer.com/) for this; I've included a copy of my rename settings in this package (S01E00 Rename.aren).
 
@@ -52,7 +52,7 @@ As for where to find this kind of content, I recommend using JDownloader or some
 #### Add content to collections
 To add a TV show, interstitial content, or media to a collection, right click on the media, and update the Collection tags like so. You can include content in multiple collections.
 
-![Add to Collection](Screenshots\AddToCollection.PNG)
+![Add to Collection](Screenshots/AddToCollection.PNG)
 
 ## Configure your Open Swim scripts
 
