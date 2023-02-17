@@ -26,7 +26,7 @@ Right-click on the included .env file and open with a text editor (like Notepad 
 
 You can identify your PLEX_URL by opening the server software and navigating to Settings -> Remote Access. It should look something like this. 
 
-![URL Remote Access](Screenshots\PlexURLRemoteAccess.png)
+![URL Remote Access](Screenshots/PlexURLRemoteAccess.png)
 
 The **private** IP address will be what you want to plug into your .env file. Make sure you include HTTP in front of your set up, and make sure you wrap it in quotes.
 
