@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # Don't touch this stuff
-import os, operator, time, sys, datetime, re
-import requests
+import os, operator, time, sys, datetime
 import random
 from dotenv import load_dotenv
 from plexapi.server import PlexServer
